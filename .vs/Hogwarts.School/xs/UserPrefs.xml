@@ -1,17 +1,16 @@
-﻿<Properties StartupConfiguration="{6F5B5FA4-30A7-454A-ACD3-7672CD66B0E7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Hogwarts.School/Validation/StudentValidation.cs">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{6F5B5FA4-30A7-454A-ACD3-7672CD66B0E7}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Hogwarts.School/Entity/AnswerValidation.cs" Line="12" Column="10" />
-      <File FileName="Hogwarts.School/Validation/StudentValidation.cs" Line="56" Column="54" />
-      <File FileName="Hogwarts.School/Properties/launchSettings.json" />
+      <File FileName="Hogwarts.School/Entity/AnswerValidation.cs" Line="15" Column="1" />
+      <File FileName="Hogwarts.School/Validation/StudentValidation.cs" Line="25" Column="14" />
+      <File FileName="Hogwarts.School/Properties/launchSettings.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Hogwarts.School" expanded="True">
             <Node name="Hogwarts.School" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Properties" expanded="True" />
+              <Node name="Entity" expanded="True" />
               <Node name="Validation" expanded="True">
                 <Node name="StudentValidation.cs" selected="True" />
               </Node>
